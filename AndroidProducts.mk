@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_jfltrefreshespr.mk
+    $(LOCAL_DIR)/full_jflterefreshspr.mk
